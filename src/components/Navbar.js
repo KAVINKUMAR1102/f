@@ -5,6 +5,8 @@ import React from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
 import { useState } from "react"
 
+import Logo from "../assets/logo.jpg"
+
 const Navbar = () => {
 
   const [click,setClick]=useState(false);
@@ -25,7 +27,10 @@ const Navbar = () => {
   return (
     <div className={color ? "header header-bg" : "header"}>
       <Link to="/">
-        <h1>ANOVA</h1>
+        <div>
+          <img className="logo-img" src={Logo} alt="" />
+          <h1>ANOVA</h1>
+        </div>
       </Link>
       <ul className={click ? "nav-menu active"
       :"nav-menu"}
