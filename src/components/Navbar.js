@@ -28,7 +28,6 @@ const Navbar = () => {
     <div className={color ? "header header-bg" : "header"}>
       <Link to="/">
         <div>
-          <img className="logo-img" src={Logo} alt="" />
           <h1>ANOVA</h1>
         </div>
       </Link>
