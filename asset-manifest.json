@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/f/static/css/main.3acb9440.css",
+    "main.js": "/f/static/js/main.7ff56457.js",
+    "static/media/Student-Club-2.jpg": "/f/static/media/Student-Club-2.f67e61bf0236840d8c56.jpg",
+    "static/media/Sriharsha.jpeg": "/f/static/media/Sriharsha.a2ae5457f5297abf565f.jpeg",
+    "static/media/Teja.jpeg": "/f/static/media/Teja.7a8fc54f9c5116cd47b8.jpeg",
+    "static/media/Shruthi.jpeg": "/f/static/media/Shruthi.200f6637646131680ea5.jpeg",
+    "static/media/Deepesh.jpeg": "/f/static/media/Deepesh.d9751b4600dd5139163b.jpeg",
+    "static/media/Deeksha.jpg": "/f/static/media/Deeksha.bdcac92f12e4b49f688b.jpg",
+    "static/media/Shailaja.jpeg": "/f/static/media/Shailaja.0da06360e4976bf071cb.jpeg",
+    "static/media/Simran.jpeg": "/f/static/media/Simran.b514d1e9c62d142faf29.jpeg",
+    "static/media/Arjun.jpeg": "/f/static/media/Arjun.f5a51d6b7093e3dc0c09.jpeg",
+    "static/media/Harsha.jpeg": "/f/static/media/Harsha.a112686cd5683f922153.jpeg",
+    "static/media/logo.jpg": "/f/static/media/logo.032274ce4a50ff05fa12.jpg",
+    "static/media/place.png": "/f/static/media/place.67df0b60594761611e11.png",
+    "index.html": "/f/index.html",
+    "main.3acb9440.css.map": "/f/static/css/main.3acb9440.css.map",
+    "main.7ff56457.js.map": "/f/static/js/main.7ff56457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3acb9440.css",
+    "static/js/main.7ff56457.js"
+  ]
+}
