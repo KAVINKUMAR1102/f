@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.3acb9440.css",
-    "main.js": "/my-app/static/js/main.91c0c68b.js",
+    "main.css": "/my-app/static/css/main.143fc2ce.css",
+    "main.js": "/my-app/static/js/main.6280977e.js",
     "static/media/Student-Club-2.jpg": "/my-app/static/media/Student-Club-2.f67e61bf0236840d8c56.jpg",
+    "static/media/event.jpg": "/my-app/static/media/event.32cc51e47c13e79bc0df.jpg",
     "static/media/Sriharsha.jpeg": "/my-app/static/media/Sriharsha.a2ae5457f5297abf565f.jpeg",
     "static/media/Teja.jpeg": "/my-app/static/media/Teja.7a8fc54f9c5116cd47b8.jpeg",
     "static/media/Shruthi.jpeg": "/my-app/static/media/Shruthi.200f6637646131680ea5.jpeg",
@@ -15,11 +16,11 @@
     "static/media/logo.jpg": "/my-app/static/media/logo.032274ce4a50ff05fa12.jpg",
     "static/media/place.png": "/my-app/static/media/place.67df0b60594761611e11.png",
     "index.html": "/my-app/index.html",
-    "main.3acb9440.css.map": "/my-app/static/css/main.3acb9440.css.map",
-    "main.91c0c68b.js.map": "/my-app/static/js/main.91c0c68b.js.map"
+    "main.143fc2ce.css.map": "/my-app/static/css/main.143fc2ce.css.map",
+    "main.6280977e.js.map": "/my-app/static/js/main.6280977e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3acb9440.css",
-    "static/js/main.91c0c68b.js"
+    "static/css/main.143fc2ce.css",
+    "static/js/main.6280977e.js"
   ]
 }
