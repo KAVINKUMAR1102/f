@@ -1,46 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@900&display=swap");
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities;
 
-
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
 }
 
-body{
+body {
   background-color: black;
 }
 
-h1,h4,p,a{
+h1,
+h4,
+p,
+a {
   color: white;
   text-decoration: none;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
-.btn{
+.btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(1,149,195);
+  background: rgb(1, 149, 195);
   color: #222;
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
 }
 
-.btn-light{
+.btn-light {
   background: transparent;
   color: #fff;
 }
 
-.btn:hover{
+.btn:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #fff;
   transition: 0.3s;
