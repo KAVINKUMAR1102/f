@@ -13,10 +13,10 @@ const h_img = () => {
       <p>Welcome, Data Scientists.</p>
       <h1>Let's Explore.</h1>
       <div>
-        <Link to="/team"
-        className="btn" >Team</Link>
-        <Link to="/contact"
-        className="btn btn-light" >Contact</Link>
+        <Link to="/events"
+        className="btn" >LOOK UP THE EVENTS!</Link>
+        {/* <Link to="/contact"
+        className="btn btn-light" >Contact</Link> */}
       </div>
     </div>
 

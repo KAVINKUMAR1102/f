@@ -1,7 +1,8 @@
 import "./footerStyles.css"
 
 import React from 'react'
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub } from "react-icons/fa"
+// import { FontAwesomeIcon } from "@fontawesome/react-fontawesome"
+import { FaHome, FaPhone, FaMailBulk, FaDiscord, FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa"
 
 const footer = () => {
   return (
@@ -9,7 +10,7 @@ const footer = () => {
       <div className="footer-container">
 
         <div className="left">
-          <div className="location">
+          <div className="location"><a href=""></a>
             <FaHome size={20} style={{color:"#fff",marginRight:"2rem"}}/>
             <div>
               <p>Jain Deemed-To-Be University.</p>
@@ -30,9 +31,10 @@ const footer = () => {
           <h4>About our club</h4>
           <p></p>
           <div className="social">
-            <FaFacebook size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-            <FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-            <FaGithub size={30} style={{color:"#fff",marginRight:"1rem"}}/>         
+            <a href="https://discord.com/invite/fYg5z4Yh9W" target="_blank"><i className="discord"><FaDiscord /></i></a>
+            <a href="https://www.linkedin.com/company/anova-club/" target="_blank"><i className="linkedin"><FaLinkedin /></i></a>
+            <a href="https://github.com/ANOVA-Datasimplified" target="_blank"><i className="github"><FaGithub /></i></a>
+            <a href="https://www.instagram.com/anova_ds/" target="_blank"><i className="insta"><FaInstagram /></i></a>     
           </div>
         </div>
       </div>

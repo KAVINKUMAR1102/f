@@ -41,6 +41,28 @@
   margin-top: 1rem;
 }
 
+.social i{
+  font-size: 30px;
+  color: #fff;
+  margin-right: 1rem;
+}
+
+.discord:hover{
+  color: slateblue;
+}
+
+.linkedin:hover{
+  color: #0E76A8;
+}
+
+.github:hover{
+  color: #46505e;
+}
+
+.insta:hover{
+  color: #d6249f;
+}
+
 h4{
   font-size: 1.2rem;
   padding-bottom: 0.7rem;

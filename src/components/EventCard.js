@@ -37,7 +37,7 @@ The *Code Wave Hackathon - 4 Hours Challenge* is here and open to all semester s
                         </p>
                     </div>
                 </div>
-                <button class="action">Book it</button>
+                <a href="http://bit.ly/CODEWAVE2023" target="_blank"><button class="action">Register Now!</button></a>
             </div>
         </div>
      </div>
