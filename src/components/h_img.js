@@ -14,7 +14,7 @@ const h_img = () => {
       <h1>Let's Explore.</h1>
       <div>
         <Link to="/events"
-        className="btn" >LOOK UP THE EVENTS!</Link>
+        className="btn" >CHECK EVENTS!</Link>
         {/* <Link to="/contact"
         className="btn btn-light" >Contact</Link> */}
       </div>
