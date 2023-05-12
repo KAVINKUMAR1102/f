@@ -46,7 +46,7 @@ const Footer = () => {
           <div className="flex space-x-2 text-zinc-600">
             <div className="group">
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/company/anova-club/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -60,7 +60,7 @@ const Footer = () => {
 
             <div className="group">
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/anova_ds/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -87,7 +87,11 @@ const Footer = () => {
             </div>
 
             <div className="group">
-              <a href="https://github.com/" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/ANOVA-Datasimplified"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <GitHubIcon
                   fontSize="medium"
                   sx={{ fontSize: "35px" }}
