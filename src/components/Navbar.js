@@ -43,9 +43,9 @@ const Navbar = () => {
         <li>
           <Link to="/events">Events</Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/about">About</Link>
-        </li>
+        </li> */}
         <li>
           <Link to="/contact">Contact</Link>
         </li>
