@@ -4,6 +4,8 @@ import Home from "./routes/Home"
 import Team from "./routes/Team"
 import About from "./routes/About"
 import Contact from "./routes/Contact"
+import Event from "./routes/Events"
+
 
 import { Route,Routes } from "react-router-dom";
 
@@ -16,6 +18,7 @@ function App() {
         <Route path="/team" element={<Team />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/events" element={<Event />} />     
       </Routes>
     </>
   );
